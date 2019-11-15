@@ -1,0 +1,50 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Polynomial Regression is when the regression is not linear and we can use square \n",
+    "# values to depicit it (overfit or underfit).\n",
+    "\n",
+    "# Bias is an error which measures how good our predicted value is estimated.  \n",
+    "\n",
+    "# Variance is also an error which gives a measure how the numbers spread out \n",
+    "# from their average value. \n",
+    "\n",
+    "# Bias Variance trade-off is a point where the errors such as bias and variante are \n",
+    "# both low but not the lowest.  It is also the area where we have the optimal \n",
+    "# model complexity. \n",
+    "\n",
+    "# Examples are: \n",
+    "# Stock market estimation, \n",
+    "# R-Resistance in dependance with Temperatures\n",
+    "# electricity consumptions in kilowatt-hours per month from a Number \n",
+    "# houses and the areas in square feet of those houses"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.6.6"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 2
+}
